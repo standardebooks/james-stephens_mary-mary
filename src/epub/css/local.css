@@ -1,2 +1,9 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
+
+#chapter-32 p:last-child {
+    font-variant: small-caps;
+    text-align: center;
+    padding-top: 3em;
+    text-indent: 0;
+  }
