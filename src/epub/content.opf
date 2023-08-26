@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/james-stephens/mary-mary</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2023-08-26T14:42:14Z</dc:date>
+		<meta property="dcterms:modified">2023-08-26T14:42:14Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -36,15 +36,15 @@
 		<dc:description id="description">The teenage daughter of a Dublin charwoman is wandering around the city when she meets the policeman who will be instrumental in her journey into adolescence.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Sixteen-year-old Mary Makebelieve shares a small room with her mother, a charwoman, in the tenements of early twentieth-century Dublin. While Mrs. Makebelieve is at work cleaning the houses of the wealthy, Mary wanders around the city and its parks absorbed in daydreams. Her encounter with a policeman who appears to signal romantic interest in her is the beginning of Mary’s coming-of-age story, which combines elements of folk- or fairytale with a complex vision of human psychology and the relations between various social groups: mothers and daughters, men and women, the rich and the poor, the young and the old.&lt;/p&gt;
-			&lt;p&gt;Written in 1910 and first published the following year as a serial in the short-lived ‘Irish Review’ co-founded by &lt;a href="https://standardebooks.org/ebooks/james-stephens/"&gt;James Stephens&lt;/a&gt;, ‘Mary, Mary’ was his first published work of prose fiction. According to critic Augustine Martin, it is the first novel written about Dublin’s slums, the squalor and despair of which Stephens had himself experienced first-hand in his youth.&lt;/p&gt;
-			&lt;p&gt;Martin suggests in his critical study of Stephens that it is this novel, of all Stephens’ works, that most clearly articulates the driving idea of his literary career: the gap between the hard reality that human beings must endure and the aspirations of reverie whose realization we seek through imagination.&lt;/p&gt;
+			&lt;p&gt;Written in 1910 and first published the following year as a serial in the short-lived &lt;i&gt;Irish Review&lt;/i&gt; (a periodical co-founded by &lt;a href="https://standardebooks.org/ebooks/james-stephens/"&gt;Stephens&lt;/a&gt; himself), &lt;i&gt;Mary, Mary&lt;/i&gt; was his first published work of prose fiction. According to critic Augustine Martin, it’s the first novel written about Dublin’s slums, the squalor and despair of which Stephens had himself experienced first-hand in his youth.&lt;/p&gt;
+			&lt;p&gt;Martin suggests in his critical study of Stephens that it’s this novel, of all Stephens’ works, that most clearly articulates the driving idea of his literary career: the gap between the hard reality that human beings must endure, and the aspirations of reverie whose realization we seek through imagination.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://gutenberg.net.au/ebooks07/0700221h.html</dc:source>
 		<dc:source>https://archive.org/details/charwomansdaught01step</dc:source>
 		<meta property="se:production-notes">This production's title ('Mary, Mary') is that of the US edition of the novel, but it has been created using the text from Project Gutenberg Australia, which is a transcription of the British edition of the novel whose title is 'The Charwoman's Daughter'.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">41901</meta>
+		<meta property="se:reading-ease.flesch">62.21</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Mary,_Mary</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/james-stephens_mary-mary</meta>
 		<dc:creator id="author">James Stephens</dc:creator>
