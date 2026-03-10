@@ -2,6 +2,7 @@
 <se-lint-ignore>
 	<file path="chapter-32.xhtml">
 		<ignore code="y-003">
+			<line>19</line>
 			<reason>The final line of the book is a sentence fragment indicating that the story is to be continued, and does not require ending punctuation.</reason>
 		</ignore>
 	</file>
