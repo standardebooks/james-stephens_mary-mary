@@ -1,0 +1,1 @@
+This production's title ('Mary, Mary') is that of the US edition of the novel, but it has been created using the text from Project Gutenberg Australia, which is a transcription of the British edition of the novel whose title is 'The Charwoman's Daughter'.
